@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\bin\Debug\net8.0\Task_GestioneEccezioni.exe
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\bin\Debug\net8.0\Task_GestioneEccezioni.deps.json
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\bin\Debug\net8.0\Task_GestioneEccezioni.runtimeconfig.json
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\bin\Debug\net8.0\Task_GestioneEccezioni.dll
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\bin\Debug\net8.0\Task_GestioneEccezioni.pdb
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\obj\Debug\net8.0\Task_GestioneEccezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\obj\Debug\net8.0\Task_GestioneEccezioni.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\obj\Debug\net8.0\Task_GestioneEccezioni.AssemblyInfo.cs
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\obj\Debug\net8.0\Task_GestioneEccezioni.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\obj\Debug\net8.0\Task_GestioneEccezioni.dll
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\obj\Debug\net8.0\refint\Task_GestioneEccezioni.dll
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\obj\Debug\net8.0\Task_GestioneEccezioni.pdb
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\obj\Debug\net8.0\Task_GestioneEccezioni.genruntimeconfig.cache
+C:\Users\Utente\source\repos\Task_GestioneEccezioni\Task_GestioneEccezioni\obj\Debug\net8.0\ref\Task_GestioneEccezioni.dll

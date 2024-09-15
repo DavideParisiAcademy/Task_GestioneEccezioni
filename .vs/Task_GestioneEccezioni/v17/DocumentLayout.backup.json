@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\Task_GestioneEccezioni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B29352E-1C74-4C25-9C55-F04A998505A4}|Task_GestioneEccezioni\\Task_GestioneEccezioni.csproj|c:\\users\\utente\\source\\repos\\task_gestioneeccezioni\\task_gestioneeccezioni\\classes\\gestioneio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B29352E-1C74-4C25-9C55-F04A998505A4}|Task_GestioneEccezioni\\Task_GestioneEccezioni.csproj|solutionrelative:task_gestioneeccezioni\\classes\\gestioneio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B29352E-1C74-4C25-9C55-F04A998505A4}|Task_GestioneEccezioni\\Task_GestioneEccezioni.csproj|c:\\users\\utente\\source\\repos\\task_gestioneeccezioni\\task_gestioneeccezioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B29352E-1C74-4C25-9C55-F04A998505A4}|Task_GestioneEccezioni\\Task_GestioneEccezioni.csproj|solutionrelative:task_gestioneeccezioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestioneIO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_GestioneEccezioni\\Task_GestioneEccezioni\\Classes\\GestioneIO.cs",
+              "RelativeDocumentMoniker": "Task_GestioneEccezioni\\Classes\\GestioneIO.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_GestioneEccezioni\\Task_GestioneEccezioni\\Classes\\GestioneIO.cs",
+              "RelativeToolTip": "Task_GestioneEccezioni\\Classes\\GestioneIO.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:50:29.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_GestioneEccezioni\\Task_GestioneEccezioni\\Program.cs",
+              "RelativeDocumentMoniker": "Task_GestioneEccezioni\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_GestioneEccezioni\\Task_GestioneEccezioni\\Program.cs",
+              "RelativeToolTip": "Task_GestioneEccezioni\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:18:44.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
